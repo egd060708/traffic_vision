@@ -1,0 +1,10 @@
+{
+  "reference_size": [1200, 683],
+  "target_point": [92, 516],
+  "far_point": [1046, 434],
+  "axis_length_m": 12.10,
+  "target_line": [[70, 540], [210, 410]],
+  "roi_polygon": [[0, 390], [1200, 370], [1200, 655], [0, 670]],
+  "speed_window": 12,
+  "min_approach_speed_mps": 0.15
+}
