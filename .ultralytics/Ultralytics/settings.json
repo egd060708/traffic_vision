@@ -1,0 +1,21 @@
+{
+  "settings_version": "0.0.6",
+  "datasets_dir": "D:\\\u7814\u4e00\u8bfe\u5185\\\u6a21\u5f0f\u8bc6\u522b\u4e0e\u673a\u5668\u89c6\u89c9\\\u4ea4\u901a\u4efb\u52a1\\traffic_vision\\datasets",
+  "weights_dir": "weights",
+  "runs_dir": "runs",
+  "uuid": "f5ce3e90a6a6ac02bc412352d08718fe1ca49dfb3b8c653b4b15e2f2cbc9984e",
+  "sync": true,
+  "api_key": "",
+  "openai_api_key": "",
+  "clearml": true,
+  "comet": true,
+  "dvc": true,
+  "hub": true,
+  "mlflow": true,
+  "neptune": true,
+  "raytune": true,
+  "tensorboard": false,
+  "wandb": false,
+  "vscode_msg": true,
+  "openvino_msg": true
+}

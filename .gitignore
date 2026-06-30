@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+datasets/
+data/processed/
+outputs/
+runs/
+configs/
